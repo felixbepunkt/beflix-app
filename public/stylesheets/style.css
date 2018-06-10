@@ -1,0 +1,24 @@
+/*
+Stylesheet file for overwriting bootstrap defaults
+
+*/
+body{
+  background-color: rgba(2, 0, 64, 0.1);
+  font-family: verdana;
+  color: #051534}
+
+.navbar {
+  font-family: verdana;
+  background-color: rgb(2, 0, 64) !important;
+  border:0px solid #000;
+}
+
+.jumbotron {
+   background-color: rgba(2, 0, 64, 0.1) !important;
+   margin-top: 50px!important;
+}
+
+.btn {
+  background-color: rgb(2, 0, 64) !important;
+  border-color: rgb(2, 0, 60);
+}
