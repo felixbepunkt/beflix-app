@@ -39,4 +39,4 @@ jobs:
       # deploy!
       - deploy:
           name: Let docker hub build a new image
-          command: $DOCKER_HUB_TRIGGER
+          command: $DOCKER_HUB_TRIGGER_C20
